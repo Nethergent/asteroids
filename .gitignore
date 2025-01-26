@@ -1,3 +1,6 @@
+# lil reminder to run venv
+run_venv.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
